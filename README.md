@@ -1,9 +1,1 @@
-HELLO WORLD
-
-This is my first test
-
-This is my 2nd test
-
-Online edit test 3
-
-Edit in text editor_test 4 
+Please can you help me create a Docker with a Flask server serving files from a "static" script folder. I have Docker installed
